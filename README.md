@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrhsn1
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning Spring Boot & React JS
+- 🌱 I’m currently learning Java - Spring Boot
 - 💞️ I'm looking forward to collaborating with anyone I can
 - 📫 How to reach me mrsibtulhassan@gmail.com
 
